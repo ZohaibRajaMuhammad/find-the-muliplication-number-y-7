@@ -10,9 +10,9 @@
   <script >let num = prompt("Enter a Number for Finding multiplication of five");
 
   if (num % 7 === 0) {
-    console.log( num , "is a Multiple by 5")
+    console.log( num , "is a Multiple by 7")
   }else{
-    console.log( num , "is not a Multiple by 5")
+    console.log( num , "is not a Multiple by 7")
   }</script>
 </body>
 </html>
